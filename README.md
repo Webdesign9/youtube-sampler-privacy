@@ -1,6 +1,6 @@
 This repository contains the privacy policy for the YouTube Sampler Chrome extension.
 
-**Live Privacy Policy:** [View Here](https://youtubesampler.github.io/youtube-sampler-privacy/)
+**Live Privacy Policy:** [View Here](https://YouTubeSampler.github.io/youtube-sampler-privacy/privacy-policy.html)
 
 ---
 
